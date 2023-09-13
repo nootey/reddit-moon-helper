@@ -122,3 +122,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+params/reddit_api_client.json
